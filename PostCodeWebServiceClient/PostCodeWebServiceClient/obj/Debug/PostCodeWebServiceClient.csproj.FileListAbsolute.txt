@@ -1,0 +1,7 @@
+C:\Users\Ruben.Teixeira\Desktop\Arquiconsult\Formação\AL Language\80.SOAPWebService\PostCodeWebServiceClient\PostCodeWebServiceClient\bin\Debug\PostCodeWebServiceClient.exe.config
+C:\Users\Ruben.Teixeira\Desktop\Arquiconsult\Formação\AL Language\80.SOAPWebService\PostCodeWebServiceClient\PostCodeWebServiceClient\bin\Debug\PostCodeWebServiceClient.exe
+C:\Users\Ruben.Teixeira\Desktop\Arquiconsult\Formação\AL Language\80.SOAPWebService\PostCodeWebServiceClient\PostCodeWebServiceClient\bin\Debug\PostCodeWebServiceClient.pdb
+C:\Users\Ruben.Teixeira\Desktop\Arquiconsult\Formação\AL Language\80.SOAPWebService\PostCodeWebServiceClient\PostCodeWebServiceClient\obj\Debug\PostCodeWebServiceClient.csprojAssemblyReference.cache
+C:\Users\Ruben.Teixeira\Desktop\Arquiconsult\Formação\AL Language\80.SOAPWebService\PostCodeWebServiceClient\PostCodeWebServiceClient\obj\Debug\PostCodeWebServiceClient.csproj.CoreCompileInputs.cache
+C:\Users\Ruben.Teixeira\Desktop\Arquiconsult\Formação\AL Language\80.SOAPWebService\PostCodeWebServiceClient\PostCodeWebServiceClient\obj\Debug\PostCodeWebServiceClient.exe
+C:\Users\Ruben.Teixeira\Desktop\Arquiconsult\Formação\AL Language\80.SOAPWebService\PostCodeWebServiceClient\PostCodeWebServiceClient\obj\Debug\PostCodeWebServiceClient.pdb
